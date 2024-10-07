@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Pau Jorques](https://github.com/paujorques02)
+- Place: Castellon, Spain
+- Bio: Student
+- Github: [paujorques02](https://github.com/paujorques02)
